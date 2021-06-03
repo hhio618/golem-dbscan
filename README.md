@@ -1,5 +1,6 @@
 # DBSCAN on Golem
-
+## Current state
+This project is a PoC project for running Map Reduce programming model on top of Golem.network. this project is based on my [WIP] golem-mapreduce [here](https://github.com/hhio618/golem-maprerduce).
 ## Overview
 
 This is an implementation of the [DBSCAN clustering algorithm](http://en.wikipedia.org/wiki/DBSCAN) 
